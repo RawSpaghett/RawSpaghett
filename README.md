@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Justin Fowler</h1>
 <h3 align="center">I am a Digital Media Major at the University of Central Florida.</h3>
 
-- 🌱 I’m currently learning **Intermediate C#, Git, Development Pipelines**
+- 🌱 I’m currently learning **Intermediate C#, Beginner C++, and AI-Focused OOP**
 
 - Here's my work! [https://justinfowler.journoportfolio.com/](https://justinfowler.journoportfolio.com/)
 
