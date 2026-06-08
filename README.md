@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Intermediate C#, C++ (Data-management,Standard Library, Memory) , and AI-Focused OOP**
 
-- Here's my work! [https://justinfowler.journoportfolio.com/](https://justinfowler.journoportfolio.com/)
+- Here's my work! [https://justinfowler.journoportfolio.com/](https://justinfowler.journoportfolio.com/) **all of my games are playable in-browser!**
 
 - Contact me! **jfowler3169@gmail.com**
 
