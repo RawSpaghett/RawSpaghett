@@ -9,4 +9,4 @@
 
 - Some of my favorite games are **Rainbow Six Siege,Valorant, Beyond all reason, Ark survival evolved, and Minecraft**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,github,notion,vscode,unity,unreal&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,github,notion,vscode,rider,unity,unreal&theme=dark)](https://skillicons.dev)
