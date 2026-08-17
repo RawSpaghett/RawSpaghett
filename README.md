@@ -11,3 +11,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 https://skillicons.dev/icons?i=cs,cpp,github,notion,vscode,rider,unity,unreal)](https://skillicons.dev
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,github,notion,vscode,rider,unity,unreal,wasm)](https://skillicons.dev)
