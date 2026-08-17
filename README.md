@@ -10,4 +10,6 @@
 - Some of my favorite games are **Rainbow Six Siege,Valorant, Beyond all reason, Ark survival evolved, and Minecraft**
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,github,notion,vscode,rider,unity,unreal,wasm)](https://skillicons.dev)
+<a href="[https://skillicons.dev](https://skillicons.dev)">
+  <img src="[https://skillicons.dev/icons?i=cs,cpp,github,notion,vscode,rider,unity,unreal,wasm](https://skillicons.dev/icons?i=cs,cpp,github,notion,vscode,rider,unity,unreal,wasm)" alt="My Skills" />
+</a>
